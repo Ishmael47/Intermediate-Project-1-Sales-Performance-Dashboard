@@ -1,4 +1,4 @@
-Sales Performance Dashboard – Power BI Intermediate Project 1
+Regional Sales Performance Dashboard – Power BI Intermediate Project 1
 
 Overview
 
